@@ -1,0 +1,4 @@
+endereço: localhost
+usuario: postgres
+banco: dbTP1TOO
+senha: 5371

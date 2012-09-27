@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="Driver PostgreSQL/postgresql-9.1-902.jdbc4.jar"/>
+	<classpathentry kind="lib" path="Driver Swingx/swingx.jar"/>
+	<classpathentry kind="lib" path="Driver JFreeChart/jcommon-1.0.17.jar"/>
+	<classpathentry kind="lib" path="Driver JFreeChart/jfreechart-1.0.14.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
