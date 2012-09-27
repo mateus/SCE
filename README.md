@@ -13,6 +13,7 @@ Banco de dados
 Neste banco de dados execute a seguinte query:
 
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
 CREATE TABLE configuracoes
 (
   horarioAtivo BOOLEAN DEFAULT (TRUE) NOT NULL
@@ -89,6 +90,7 @@ CREATE TABLE votacao_candidatos_votos
   numero integer NOT NULL,
   cargo character varying(30) NOT NULL
 );
+
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 Se tudo estiver correto o arquivo tp1too.jar poderá ser executado perfeitamente.
