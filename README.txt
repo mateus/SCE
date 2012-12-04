@@ -1,7 +1,7 @@
-TP1TOO
-======
+Sistema de Controle Eleitoral
+=============================
 
-Programa para gerência básica de eleições e Simulação de Votação.
+Programa para gerï¿½ncia bï¿½sica de eleiï¿½ï¿½es e Simulaï¿½ï¿½o de Votaï¿½ï¿½o.
 Imagens e Sons capturados utilizando sistema de barras do Sistema Operacional Windows.
 
 Banco de dados
@@ -91,7 +91,7 @@ CREATE TABLE votacao_candidatos_votos
 );
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-Se tudo estiver correto o arquivo tp1too.jar poderá ser executado perfeitamente.
+Se tudo estiver correto o arquivo tp1too.jar poderï¿½ ser executado perfeitamente.
 
-Créditos: Mateus Ferreira Silva , Vinicius Lehmann
+Crï¿½ditos: Mateus Ferreira Silva , Vinicius Lehmann
 Contato: mtsferreirasilva@gmail.com
