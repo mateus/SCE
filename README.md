@@ -1,5 +1,5 @@
-TP1TOO
-======
+Sistema de Controle Eleitoral
+=============================
 
 Programa para gerência básica de eleições e Simulação de Votação.
 Imagens e Sons capturados utilizando sistema de barras do Sistema Operacional Windows.
