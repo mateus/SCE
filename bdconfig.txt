@@ -1,4 +1,4 @@
-endere�o: localhost
+endereço: localhost
 usuario: postgres
 banco: dbTP1TOO
 senha: senha

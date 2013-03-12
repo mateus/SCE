@@ -1,11 +1,25 @@
 Sistema de Controle Eleitoral
-=============================
+==========================
 
 Programa para gerência básica de eleições e Simulação de Votação.
 Imagens e Sons capturados utilizando sistema de barras do Sistema Operacional Windows.
 
+## Screenshots
+
+![ft1](https://raw.github.com/mtsferreirasilva/SCE/master/screenshots/inicial.png)
+![ft2](https://raw.github.com/mtsferreirasilva/SCE/master/screenshots/config.png)
+![ft3](https://raw.github.com/mtsferreirasilva/SCE/master/screenshots/cadastrar.png)
+![ft4](https://raw.github.com/mtsferreirasilva/SCE/master/screenshots/consultar.png)
+![ft5](https://raw.github.com/mtsferreirasilva/SCE/master/screenshots/cadPesquisaEleitoral.png)
+![ft6](https://raw.github.com/mtsferreirasilva/SCE/master/screenshots/relatorio.png)
+![ft7](https://raw.github.com/mtsferreirasilva/SCE/master/screenshots/votacao1.png)
+![ft8](https://raw.github.com/mtsferreirasilva/SCE/master/screenshots/votacao2.png)
+![ft9](https://raw.github.com/mtsferreirasilva/SCE/master/screenshots/votacao3.png)
+![ft10](https://raw.github.com/mtsferreirasilva/SCE/master/screenshots/votacao4.png)
+![ft11](https://raw.github.com/mtsferreirasilva/SCE/master/screenshots/apuracao.png)
+
 Banco de dados
---------------------
+-------------
 
 - Utilize o PostgreSQL
 - Configure o arquivo bdconfig.txt 
@@ -92,6 +106,8 @@ CREATE TABLE votacao_candidatos_votos
 );
 
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+OBS: Verificar se os arquivos da pasta <i>imagens</i> estão com os <i>ç</i> corretos.
 
 Se tudo estiver correto o arquivo tp1too.jar poderá ser executado perfeitamente.
 
